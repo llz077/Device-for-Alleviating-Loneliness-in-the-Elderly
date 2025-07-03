@@ -70,3 +70,7 @@ Key insights from the preliminary work directly shaped the device’s user-cente
 
 - Arduino
 - 3d printer
+
+## Easter Egg:
+We made it to the top 2 concepts in the student and faculty voting during the final exhibition—thank you for all the support!
+![微信图片_20250703160215 (2)](https://github.com/user-attachments/assets/76270ae8-0362-4523-816a-5865432c8948)
