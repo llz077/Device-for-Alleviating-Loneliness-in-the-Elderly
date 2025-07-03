@@ -1,21 +1,27 @@
-https://youtu.be/i_ls3Do0mAA
-
-![屏幕截图 2025-07-02 193538](https://github.com/user-attachments/assets/dcaf4540-01b0-40d7-851f-d37365100f70)
-![微信图片_20250702193124](https://github.com/user-attachments/assets/7cbd8e89-755f-42d3-ac5b-1e188a11eb1c)
 
 # Device for Alleviating Loneliness in the Elderly
 
-![Project Poster]![屏幕截图 2025-07-02 193348](https://github.com/user-attachments/assets/4807bbd4-339b-4f6a-aa85-8f0b80be0091)
+![Project Poster]!
+[屏幕截图 2025-07-02 193348](https://github.com/user-attachments/assets/4807bbd4-339b-4f6a-aa85-8f0b80be0091)
+
+![Project Prototype]!
+![微信图片_20250702193124 (2)](https://github.com/user-attachments/assets/4ff85530-5702-4863-8c8d-2b8d54696990)
 
 ## Overview
 
 **Device-for-Alleviating-Loneliness-in-the-Elderly** is an interactive solution designed to help reduce feelings of loneliness among elderly individuals. This project leverages user-friendly design and technology to foster social connection and emotional well-being.Inspired by “How might we develop a fun, engaging way to encourage intergenerational interactions for senior citizens who are socially isolated in Singapore?​”
 
-Methodology 
-A design thinking approach will be used, focusing on the iterative process of prototyping, testing, and refining based on user feedback. The main phases are as follows: 
-1.Prototype development based on existing insights  
-2.Iterative refinement and testing 
-3.Final prototype evaluation and completion 
+Methodology：
+
+1.Prototype Development
+Initial prototypes are created based on research insights and identified user needs.
+
+2.Iterative Refinement and Testing
+Prototypes are repeatedly tested and refined through cycles of user evaluation and feedback.
+
+3.Final Evaluation and Completion
+The refined prototype undergoes final evaluation to ensure it meets user requirements, followed by project completion.
+
 ---
 
 ## Project Background
@@ -28,6 +34,12 @@ Early stages included:
 - Needs assessment and market research
 
 Key insights from the preliminary work directly shaped the device’s user-centered features and functions.
+
+![concept scoring]!
+![屏幕截图 2025-07-02 193538 (2)](https://github.com/user-attachments/assets/5cc99d82-9289-4e19-8e9a-7dd18362c62f)
+
+![feature scoring]!
+![屏幕截图 2025-07-03 153501 (2)](https://github.com/user-attachments/assets/f0062d22-2d8b-40e8-a11b-d41acae82263)
 
 ---
 
@@ -48,9 +60,12 @@ Key insights from the preliminary work directly shaped the device’s user-cente
 - Base of flower: pot without hollowing​
 - Magnetic backing on device: dock device on flower​
 ---
+## Future improvements
+- Integrate with an existing device (people don’t want to carry more things)​
 
-## Getting Started
+- Add speaker into the pot (esp for visually impaired)​
 
+- Hobby/interest matching
 ### Prerequisites
 
 - Arduino
