@@ -1,8 +1,8 @@
-
 # Device for Alleviating Loneliness in the Elderly
+![屏幕截图 2025-07-02 193348 (2)](https://github.com/user-attachments/assets/bd9c5981-7365-41ed-bf26-89cd12c772d3)
 
 ![Project Poster]!
-[屏幕截图 2025-07-02 193348](https://github.com/user-attachments/assets/4807bbd4-339b-4f6a-aa85-8f0b80be0091)
+
 
 ![Project Prototype]!
 ![微信图片_20250702193124 (2)](https://github.com/user-attachments/assets/4ff85530-5702-4863-8c8d-2b8d54696990)
